@@ -11,7 +11,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #55DDB7;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/1200px-Flag_of_the_Soviet_Union.svg.png);
+    
 }    
 
 button{
@@ -98,7 +99,6 @@ button:active {
 
 .display {
     padding: 2rem;
-    background-color: #55DDB7;
     width: 1024px;
     height: 100vh;
 }    
